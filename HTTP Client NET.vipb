@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-05 15:29:47" Creator="Justin" Comments="" ID="8fc09394ea608e1de75b0e314dc29973">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-05 15:41:41" Creator="Justin" Comments="" ID="09ae86c21a819050e3db3c44c3aa457b">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_HTTP_Client_NET</Package_File_Name>
-    <Library_Version>1.0.0.7</Library_Version>
+    <Library_Version>1.0.0.8</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds\VIPM\LabVIEW_HTTP_REST_NET</Library_Output_Folder>
@@ -127,22 +127,22 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>REST Client_NET PPL Build.lvproj</Path>
       </Exclusions>
       <Exclusions>
-        <Path>VIV_VIPM Post Uninstall Process.vi</Path>
+        <Path>HTTP REST NET.lvproj</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>Testing</Path>
       </Exclusions>
       <Exclusions>
         <Path>VIV_VIPM Post Install Process.vi</Path>
       </Exclusions>
       <Exclusions>
-        <Path>Post-Uninstall Custom Action.vi</Path>
+        <Path>VIV_VIPM Post Uninstall Process.vi</Path>
       </Exclusions>
       <Exclusions>
         <Path>Post-Install Custom Action.vi</Path>
       </Exclusions>
       <Exclusions>
-        <Path>HTTP REST NET.lvproj</Path>
-      </Exclusions>
-      <Exclusions>
-        <Path>Testing</Path>
+        <Path>Post-Uninstall Custom Action.vi</Path>
       </Exclusions>
       <Place_Folder_Contents>
         <Path/>
