@@ -6,7 +6,7 @@ This has only been tested on Windows systems.  While .NET can be called through 
 
 This is currently written in LabVIEW 2018 for convenience, however it should be backwards compatible, and has been tested with both 32/64 bit versions of LabVIEW.
 
-The "REST Client_NET.lvlib" library contained in this class is designed to be a subclass for the JKI REST Client Library.
+The "REST Client_NET.lvlib" library contained in this class is designed to be a subclass for the JKI REST Client Library. Without that dependency, that particular library will be broken.
 
 Additional documentation to follow.
 
