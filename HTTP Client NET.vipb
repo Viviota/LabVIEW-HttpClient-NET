@@ -1,10 +1,10 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-03 10:24:41" Creator="Justin" Comments="" ID="49e06c2bb67d42df96b9fa01fcf30658">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-03 17:33:36" Creator="Justin" Comments="" ID="8205bdb6ff4da1f4e2c5413404d91568">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_HTTP_Client_NET</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.4</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..</Library_Output_Folder>
+    <Library_Output_Folder>..\builds\VIPM\LabVIEW_HTTP_REST_NET</Library_Output_Folder>
     <Company_Name>Viviota</Company_Name>
     <Library_Summary/>
     <Library_License/>
@@ -359,7 +359,7 @@
         <Path>HTTP Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CF71E0FCE61855EA69D19641E1D2B7E5</GUID>
+      <GUID>842D57ECA29A38F5135A9451A56635FD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -548,7 +548,7 @@
         <Path>Content Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA0E4799F89EE22C2D393960698A1BA7</GUID>
+      <GUID>E8D8561DF245185D17EAA10625EDB281</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -611,7 +611,7 @@
         <Path>HttpContent_ByteArray\Write NET_ByteArrayContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8D3620F918F90AF5E784C6B3581BE059</GUID>
+      <GUID>00C8800972AF5F31FC9E6F0E78E74E19</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -688,7 +688,7 @@
         <Path>HttpContent_Multipart\Write NET_MultipartContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4ED2E2863CFF15EF854F588ED5D9876E</GUID>
+      <GUID>77FFAF06570665037890FA318144D49A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -765,7 +765,7 @@
         <Path>HttpContent_Stream\Write NET_StreamContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BEEB8FCB30E5C31BA78389075A6E28C2</GUID>
+      <GUID>5B5B491A356563CCDD2253551FE28CBC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -828,7 +828,7 @@
         <Path>HttpContent_string\Write NET_StringContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>00677701D3B47ED7FB28B3AF853FB03A</GUID>
+      <GUID>2598C17732A5B9E5B2C6C2A12676ADDD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -933,7 +933,7 @@
         <Path>HttpDownloadTask\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6391C305FB997ED83FC3A9C31D57A160</GUID>
+      <GUID>E0CE30EB3AEB5BEDA70B6724A6920B78</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1010,7 +1010,7 @@
         <Path>HttpHeaders_content\Write NET_HttpContentHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>82DA6810BA7737D265162E690CC3E158</GUID>
+      <GUID>FFD958DE1AA239955769735C0EDBED4C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1157,7 +1157,7 @@
         <Path>Headers Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>628E235309C3253E176DD25C932973D8</GUID>
+      <GUID>BE6227240EAC549A5B906BC55A537E36</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1234,7 +1234,7 @@
         <Path>HttpHeaders_Request\Write NET_HttpRequestHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>43BFC80D55B85889DF74BFA0FE297838</GUID>
+      <GUID>B3FDF3CC060D9219718ACD147E715D3B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1283,7 +1283,7 @@
         <Path>HttpHeaders_response\Write NET_HttpResponseHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5616FE76599EDD638F002CD5C961F00D</GUID>
+      <GUID>65B33A926D35DAD43F34EA20EA847114</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1402,7 +1402,7 @@
         <Path>Request Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0C32C4F4164CCD76CA40348660A41BCE</GUID>
+      <GUID>1A9277F8E50F60F3A9839BFEBBDF7C56</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1563,7 +1563,7 @@
         <Path>Response Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0E9DBFFF13ED8509FBFA5C7018430543</GUID>
+      <GUID>848A0CB998C6D3B541BF8F46DBD64FF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -1640,7 +1640,7 @@
         <Path>WebProxy_NET\Create WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BBCAF80F3739B8D495009E89EF5177E2</GUID>
+      <GUID>0948D0C9B62A6403E94C12D76F483464</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1829,7 +1829,7 @@
         <Path>HttpContent\Accessors\Write timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CACFCD4A4ED046067B8E072FA3C26EB9</GUID>
+      <GUID>E04A1E6424DE9D15C6730D9EADB096E7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1892,7 +1892,7 @@
         <Path>HttpContent\Streams\Stream_Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8E7F0F2F67A983EFD555806E79C3BDD9</GUID>
+      <GUID>B37F587E5C0670EC48AD09A4AA11A094</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1941,7 +1941,7 @@
         <Path>HttpContent\SubVIs\Create Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>38E84FADEAE26CEA53F472EAB585ECD3</GUID>
+      <GUID>D383543012759812BB9B50EA74140FFD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -2046,7 +2046,7 @@
         <Path>HttpContent\Streams\Async Streams\ReadAs Stream_Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9967FA57E4F8250300B770FAF827F466</GUID>
+      <GUID>AC0AEC0D5905A3667B7E12FDDCED43DB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2179,7 +2179,7 @@
         <Path>HttpDownloadTask\Accessors\Write HttpResponseMessage.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8549B29EE60FD23D772CFF164EC4C4D6</GUID>
+      <GUID>396647EED3B8D06D0B8559528001B257</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2214,7 +2214,7 @@
         <Path>HttpDownloadTask\SubVIs\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>66AA1878F921B37FE13CE862777E2DF8</GUID>
+      <GUID>713E1E53CFEB0B7B26DF6BCEBB49BC05</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2263,7 +2263,7 @@
         <Path>HTTPHeaders_NET\Accessors\Write NET_HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E35142CAF889C108AC10E4F3D664B5B</GUID>
+      <GUID>89B24AE8232E06A58253F933F8BFF805</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2312,7 +2312,7 @@
         <Path>HTTPHeaders_NET\SubVIs\Merge Headers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B826932493E790E3427EACD5485E3DF6</GUID>
+      <GUID>841B609669967CFC079959A5BEA4EE60</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2375,7 +2375,7 @@
         <Path>HttpRequestMessage\Write HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E79FD6EAF523393327CDDCD0D1F63663</GUID>
+      <GUID>164568EC329CB68D948722FED4FE5A55</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2424,7 +2424,7 @@
         <Path>HttpRequestMessage\SubVIs\Get HTTP Method.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>90E33DC9EF010F8968238C98B1595819</GUID>
+      <GUID>43683AB9BAE8C1B459404A71A50B1DA3</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2641,7 +2641,7 @@
         <Path>HttpResponseMessage\Accessors\Write Timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8DD010772210E079ADB44806DB9E7255</GUID>
+      <GUID>A106F6EC32527E5B3CA56BB8E0D12B02</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2704,7 +2704,7 @@
         <Path>HttpResponseMessage\SubVIs\Wait For Task_core.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1FC97E3FF953154C94685CEADB2E8226</GUID>
+      <GUID>5A3F4D8D8B410B045271976A60EE2E0B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -2809,7 +2809,7 @@
         <Path>LabVIEWHTTPClient_NET\Accessors\Write RequestHeaderContentFirst.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9FBB4C50471ABF1417CF7ADA9418B496</GUID>
+      <GUID>CD8CDD816AAE29159A81A0A6AA11C744</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2914,7 +2914,7 @@
         <Path>WebProxy_NET</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1690ED6CB8F394FD258541665C28878F</GUID>
+      <GUID>55411207E97354830B067B4EBB556E4A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3033,7 +3033,7 @@
         <Path>HttpDownloadTask</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>267D4443DAA512FCCC1D339FC510B3E8</GUID>
+      <GUID>04854500108C64E72E967956B6491622</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -3110,7 +3110,7 @@
         <Path>LabVIEWHTTPClient_NET\SubVIs\Set Allowed Security Protocol.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>C435D1D5D90B437A8723A5DC2C370A47</GUID>
+      <GUID>1739628AF9D26DD7EAD58201CA96EFAC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -3187,7 +3187,7 @@
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Queue_WaitForResponse.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8F2BEA346819A72FE5A808BCC38C927E</GUID>
+      <GUID>B8F2C2423839394E2CAEC50903F4B955</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>30</Parent_Palette_Index>
@@ -3236,7 +3236,7 @@
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Private\Queue_WaitForEnqueue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AB7FD663A7152F3EF1F69B0214F27774</GUID>
+      <GUID>334420CE5B14D801E4D88CA4AD712122</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>13</Parent_Palette_Index>
@@ -3285,7 +3285,7 @@
         <Path>WebProxy_NET\Accessors\Write NET_WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8393501A6AFE300DDA8D90E5864C362E</GUID>
+      <GUID>858C10CB1B519008F78090D92A7A3874</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3334,7 +3334,7 @@
         <Path>HttpContent\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1BE2664223E35E4FE2DFE5CEF73946DF</GUID>
+      <GUID>9E88F85E86C354E5196567090A0D47D9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -3383,7 +3383,7 @@
         <Path>HTTPHeaders_NET\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CD749C46765EF9076768F1C0034222B6</GUID>
+      <GUID>C4E3DE92E0CE491B9034F6A99C9C7BB7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3460,7 +3460,7 @@
         <Path>GarbageCollect.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>557C5619BE3263CBA10B93D6F388BAD2</GUID>
+      <GUID>BDAA835414CA77106920391B778C4AAF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -3509,7 +3509,7 @@
         <Path>HttpDownloadTask\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F3573C4BCA57012BB163F67296DAB8D8</GUID>
+      <GUID>AB008C234025043436781851085F164A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -3558,7 +3558,7 @@
         <Path>HttpRequestMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE7540652F96DC3AE84560CD0E74341B</GUID>
+      <GUID>7B9C1A827B5129564D6ADC8AC4B97BE8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -3607,7 +3607,7 @@
         <Path>HttpResponseMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3A6771EAC5021B281C679DCD1D0EC417</GUID>
+      <GUID>4A21A47B3570224D46BF1FAAE599B236</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3754,7 +3754,7 @@
         <Path>REST Client_NET\Destroy REST Client.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A4640A4930F8018915983C3BC8F572AA</GUID>
+      <GUID>06C2457A2A3D1F7A63103781F84A0E65</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3859,7 +3859,7 @@
         <Path>Examples\MethodTest.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3CF6734673FA30BB85C430E1C24A51A1</GUID>
+      <GUID>540F7E21DC5C35881AE43D8FD1A00EB6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
