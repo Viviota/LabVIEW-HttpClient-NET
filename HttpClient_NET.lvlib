@@ -1,5 +1,6 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
 <Library LVVersion="18008000">
+	<Property Name="NI.Lib.Description" Type="Str">&lt;b&gt; &lt;/b&gt; &lt;b&gt; &lt;/b&gt;HttpClient_NETJustin Young - ViviotaCopyright (c) 2021License: BSD</Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)Q!!!*Q(C=\&gt;5^5O.!%)&lt;B&lt;SG#42745%Y6&gt;ECK+`A+857QM1-3)MJ8[!.MYHC,R&amp;@I+`A';V^"_]Z5)X"%!GM#*)^`0MXU0)SGB.30H^+VZM]_RP9;R^&gt;WHMT,;X[^V.ZK&lt;/PUZPKY^"DH]V(,2R7:X\H_5P8#B\[0\_/SR_0F^_Q0N1=2,7F"=ZKJ445H?:)H?:)H?:)(?:!(?:!(?:!\O:-\O:-\O:-&lt;O:%&lt;O:%&lt;O:(XEVTE)B=ZJ'4S:++E;&amp;)A[1R&amp;S6PC34S**`(Q5YEH]33?R*.Y[+,%EXA34_**0!R4YEE]C3@R*"Z+&gt;5HWERR0YK']!E`A#4S"*`!QJ1*0!!AG#QI(27!IO"B]#4S"*`$Q69%H]!3?Q".YO+T!%XA#4_!*0!TJKR*&gt;UUZS0*32YX%]DM@R/"Z+S`%Y(M@D?"Q0U]HR/"Y(Y5TI&amp;)=A:Z$4Q@HB?"Q0(X)]DM@R/"\(Q[6_B\SP4./UERS0Y4%]BM@Q'"Z+S0!9(M.D?!Q0:76Y$)`B-4S'B[FE?!S0Y4%ARK2-,[/9-&gt;$I:!3'BV@@,&gt;&lt;P5H3*^6/KT;P;F+L.JNJ%KMWBOOGKG[G[3;L&amp;6SWK;L&amp;5C[$[YV2I&amp;59VC7JQ[[A4\Q@;HL;D&lt;7E&lt;WJIWU6;UI1X^Y)[HUUG(QU(\`6[\X5\&lt;\6;&lt;T5&lt;L^6L4.'GV7GE9BO5R=-OZ0"$/HUN`JF`$]`(XQ^0@_\PHY`'"&gt;P-@`J&gt;_A7?DLP3W,GPU$Y;T.AY!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">402685952</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>

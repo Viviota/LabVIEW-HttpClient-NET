@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-05 15:41:41" Creator="Justin" Comments="" ID="09ae86c21a819050e3db3c44c3aa457b">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-02-05 17:21:29" Creator="Justin" Comments="" ID="d4d76b63f84b0dc713b61d809284241f">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_HTTP_Client_NET</Package_File_Name>
-    <Library_Version>1.0.0.8</Library_Version>
+    <Library_Version>1.0.0.14</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..\builds\VIPM\LabVIEW_HTTP_REST_NET</Library_Output_Folder>
@@ -205,9 +205,8 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
       <skip_mass_compile_after_install>false</skip_mass_compile_after_install>
     </LabVIEW>
     <VI_Docs>
-      <Edit_VI_Description>true</Edit_VI_Description>
-      <Text_to_Add>
-{product_name} {version_number}
+      <Edit_VI_Description>false</Edit_VI_Description>
+      <Text_to_Add>{product_name} {version_number}
 {author_name} - {company_name}
 {copyright}</Text_to_Add>
     </VI_Docs>
@@ -387,7 +386,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HTTP Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>0474FFA68778A02DB2DDCB2493E5AB1D</GUID>
+      <GUID>391AC1C3B961455745D381A16D29382D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -576,7 +575,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Content Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4279A0A7BE93D792BCC3DCB76AF07914</GUID>
+      <GUID>EED95D92C63D0575C1AF2E6EAB204BF6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -639,7 +638,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent_ByteArray\Write NET_ByteArrayContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>68A24CA4A01456B17FB25D85058AAC1D</GUID>
+      <GUID>64DF744750666F6EC7105D30337C84A8</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -716,7 +715,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent_Multipart\Write NET_MultipartContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FD39AC3D59C82E2489E6D1C52548ACFC</GUID>
+      <GUID>9F1BE8D0AD587957623B3BFA212F8831</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -793,7 +792,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent_Stream\Write NET_StreamContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>59513C2A174B352C8424EBF1301E1898</GUID>
+      <GUID>281A025E0D7E1EB7626E8C997B9B591F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -856,7 +855,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent_string\Write NET_StringContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>24B94F6B6DF0DF44DCF3EA1EBC98CE38</GUID>
+      <GUID>29776DDEBB2D5386FADAD986B4A7144F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -961,7 +960,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpDownloadTask\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>62ED6E26F8EE9A3CC582C86AC4884E00</GUID>
+      <GUID>CFDCFF34A0FC942DD99B27E6D2084BF4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1038,7 +1037,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpHeaders_content\Write NET_HttpContentHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>434C9A72F188B4132F74C9DD5E680622</GUID>
+      <GUID>DC065A90B53EA030246601C8DA446172</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1185,7 +1184,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Headers Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5FC1318CD435B3EFFC9270060A52A1D4</GUID>
+      <GUID>56C8C2164AB710CBC3959A0F6AD8B181</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1262,7 +1261,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpHeaders_Request\Write NET_HttpRequestHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5346CBBCECC5F95624F2C1039C0DC4F8</GUID>
+      <GUID>99A3F481B70D584AFF16531BC22DA056</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1311,7 +1310,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpHeaders_response\Write NET_HttpResponseHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D2D54A61AB92B7615971ABFD24659F80</GUID>
+      <GUID>374C1BF55BE6B35C654CF63AEE904EB7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1430,7 +1429,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Request Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6670DDEC8777B620BA98D15BDF183287</GUID>
+      <GUID>2A33B2D73D168341F18172A7BDE15E16</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1591,7 +1590,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Response Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F8B221C442FC382FBE211A2B1C5C1A2F</GUID>
+      <GUID>4C0082CC51EE47FA1049F4F4E4AF65D7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -1668,7 +1667,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>WebProxy_NET\Create WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CDC1572A5FDB265A21E6DBC4D47CF87A</GUID>
+      <GUID>2CA29F841F1A4988B9BCE46BBA663835</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1857,7 +1856,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent\Accessors\Write timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8E1E4DAAE3949F6FDA4FCB1048DFF9B4</GUID>
+      <GUID>3E20482A0AE8BAEBC53A563A13922A34</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1920,7 +1919,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent\Streams\Stream_Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5FD870924EC9E52A21313AF4C3E53361</GUID>
+      <GUID>84DE851D10C5BCADD3AE898267A607D5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1969,7 +1968,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent\SubVIs\Create Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>47186425FB0F3B40B327F2CD132D471D</GUID>
+      <GUID>AEAC9FDBBBE3772C7AB9AD436365958C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -2074,7 +2073,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent\Streams\Async Streams\ReadAs Stream_Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1EF396CEB7E818EC4C3B317C084EC06B</GUID>
+      <GUID>71FD3C948BF545C15A9E6852A7A4050E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2207,7 +2206,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpDownloadTask\Accessors\Write HttpResponseMessage.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7BD4283FB563FF0FA17D8461F89B7401</GUID>
+      <GUID>F8DB6FD45DD1754BC5D7F59EDF3F17F7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2242,7 +2241,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpDownloadTask\SubVIs\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7FEA1D2D4CDCAF0AA7BA0CE54558436A</GUID>
+      <GUID>424732328F600922615F7100372608E5</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2291,7 +2290,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HTTPHeaders_NET\Accessors\Write NET_HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>351D6073AD6FFE3B9231C50E38CE7D00</GUID>
+      <GUID>77A7192C38C4829BB505C971F623B81A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2340,7 +2339,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HTTPHeaders_NET\SubVIs\Merge Headers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4D94FF61A4EE011F4CBC1C616F4BABAC</GUID>
+      <GUID>2F44D647977F34304AA8344D8408B345</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2403,7 +2402,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpRequestMessage\Write HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A4C31B2CF6DAF827EB71570583409DD7</GUID>
+      <GUID>32A5F823D8B55AB9CF4C0F61D533377A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2452,7 +2451,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpRequestMessage\SubVIs\Get HTTP Method.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA33A5444EE3461E3624E11F56E50647</GUID>
+      <GUID>E9799A89438BF555B58C84CC4F97FE0A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2669,7 +2668,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpResponseMessage\Accessors\Write Timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4AFFF2F02A792F4DCF9EB661EF43AE3A</GUID>
+      <GUID>094C01BB1A7F54175F810DFFDDF01B15</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2732,7 +2731,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpResponseMessage\SubVIs\Wait For Task_core.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB9889E90A5DBD436383524D5BCA988B</GUID>
+      <GUID>F158BE99EDE44E469B596759EB600074</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -2837,7 +2836,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>LabVIEWHTTPClient_NET\Accessors\Write RequestHeaderContentFirst.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B84ECFC498676EE6EDA5947F2208C6C6</GUID>
+      <GUID>5536BB3DF2FFC3C76E76542B1FD33C92</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2942,7 +2941,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>WebProxy_NET</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BB57FA4D63450E6250422F5C243E38A0</GUID>
+      <GUID>ECA89F51FEBC74AE6D4ECA7DE2461C43</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3061,7 +3060,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpDownloadTask</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>1AC87CF2201D40171CA30D4697007390</GUID>
+      <GUID>D1E0DF01E4DFAE62F0CF64C4A5A6694A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -3138,7 +3137,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>LabVIEWHTTPClient_NET\SubVIs\Set Allowed Security Protocol.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E127BBEEC74A6468504AD536014F1333</GUID>
+      <GUID>4AAADBB236F3DD40FF24FF6C26A89C0F</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -3215,7 +3214,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Queue_WaitForResponse.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>64E6FDDF294464D1028693CF88891BA1</GUID>
+      <GUID>FED37A7AB589A5636CF2B661B6B9021C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>30</Parent_Palette_Index>
@@ -3264,7 +3263,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Private\Queue_WaitForEnqueue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F475DADA7D5974D3F910FDE7D24E6094</GUID>
+      <GUID>DABC38B8C7531F94CDF176B2B8D7A5FE</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>13</Parent_Palette_Index>
@@ -3313,7 +3312,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>WebProxy_NET\Accessors\Write NET_WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>548279F34705617E435935413DA84A7D</GUID>
+      <GUID>AAFE7EA6D9D8AFBDB5F8A421EFC97FC4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3362,7 +3361,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpContent\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4486A7FAD1D241DA0C9C98EFE02FE458</GUID>
+      <GUID>7A2FA32DA8B15A6FC6342C6FA744BA81</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -3411,7 +3410,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HTTPHeaders_NET\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FA613BEA8217827BBCE5F770D2872E2E</GUID>
+      <GUID>8E22C0176D42AD652FF0BC12840F24E2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3516,7 +3515,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Utilities\Base64_Decode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>10155C9E90CB37B12121C42F54D43DCE</GUID>
+      <GUID>3949ED91D1E87DEAF93EBF66C70682FD</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -3565,7 +3564,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpDownloadTask\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>47C21D5AEA9190A030F8FA1A51AA02D0</GUID>
+      <GUID>01F53BD45719BB57CAE5ADD4DFBC7479</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -3614,7 +3613,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpRequestMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4CE891961F1CA9CE7FDF2DA8113DE36D</GUID>
+      <GUID>92DFD4ED85950C99FCB4DDBF22B44676</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -3663,7 +3662,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>HttpResponseMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4287093D36CF7C3667C55A8F96EFFA45</GUID>
+      <GUID>BAC7C7EAABD4AFBE58A630B1FA064462</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3810,7 +3809,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>REST Client_NET\Destroy REST Client.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>93154D1CE87175599EB7DFA210A8FE80</GUID>
+      <GUID>A550F0EB3CB99074B28318A2C450B558</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3915,7 +3914,7 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
         <Path>Examples\MethodTest.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E748F5932A587E128D68BF8CA6331E00</GUID>
+      <GUID>EBB19CE593BC51986D39D4580A29BBF9</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
