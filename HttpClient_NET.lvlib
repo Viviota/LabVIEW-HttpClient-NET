@@ -33,13 +33,15 @@
 		<Item Name="ScaledValue_ring.ctl" Type="VI" URL="../Types/ScaledValue_ring.ctl"/>
 	</Item>
 	<Item Name="Utilities" Type="Folder">
-		<Item Name="GarbageCollect.vi" Type="VI" URL="../GarbageCollect.vi"/>
-		<Item Name="HttpNet_error.vi" Type="VI" URL="../HttpNet_error.vi"/>
+		<Item Name="Base64_Decode.vi" Type="VI" URL="../Utilities/Base64_Decode.vi"/>
+		<Item Name="Base64_Encode.vi" Type="VI" URL="../Utilities/Base64_Encode.vi"/>
+		<Item Name="GarbageCollect.vi" Type="VI" URL="../Utilities/GarbageCollect.vi"/>
+		<Item Name="HttpNet_error.vi" Type="VI" URL="../Utilities/HttpNet_error.vi"/>
 		<Item Name="HttpNet_error_enum.ctl" Type="VI" URL="../Types/HttpNet_error_enum.ctl"/>
 	</Item>
+	<Item Name="HttpClient_NET.lvclass" Type="LVClass" URL="../LabVIEWHTTPClient_NET/HttpClient_NET.lvclass"/>
 	<Item Name="HttpDownloadTask.lvclass" Type="LVClass" URL="../HttpDownloadTask/HttpDownloadTask.lvclass"/>
 	<Item Name="HttpRequestMessage.lvclass" Type="LVClass" URL="../HttpRequestMessage/HttpRequestMessage.lvclass"/>
 	<Item Name="HttpResponseMessage.lvclass" Type="LVClass" URL="../HttpResponseMessage/HttpResponseMessage.lvclass"/>
-	<Item Name="LabVIEWHTTPClient_NET.lvclass" Type="LVClass" URL="../LabVIEWHTTPClient_NET/LabVIEWHTTPClient_NET.lvclass"/>
 	<Item Name="WebProxy_NET.lvclass" Type="LVClass" URL="../WebProxy_NET/WebProxy_NET.lvclass"/>
 </Library>
