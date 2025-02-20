@@ -25,7 +25,6 @@ License: BSD</Property>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="TestBeds" Type="Folder">
 				<Item Name="TestBed_Headers.vi" Type="VI" URL="../Testing/TestBed_Headers.vi"/>
-				<Item Name="TestBed_NET.vi" Type="VI" URL="../Testing/TestBed_NET.vi"/>
 				<Item Name="TestBed_timing.vi" Type="VI" URL="../Testing/TestBed_timing.vi"/>
 			</Item>
 			<Item Name="HttpExamples.lvlib" Type="Library" URL="../Examples/HttpExamples.lvlib"/>
