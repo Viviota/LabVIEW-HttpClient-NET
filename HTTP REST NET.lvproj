@@ -20,7 +20,7 @@ License: BSD</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="Dep" Type="Folder">
 			<Item Name="LabVIEWHTTPClient.lvlib" Type="Library" URL="/&lt;vilib&gt;/httpClient/LabVIEWHTTPClient.lvlib"/>
-			<Item Name="REST Client.lvlib" Type="Library" URL="/&lt;vilib&gt;/addons/_JKI.lib/REST Client/REST Client.lvlib"/>
+			<Item Name="REST Client_JKI.lvlib" Type="Library" URL="../REST Client_JKI.lvlib"/>
 		</Item>
 		<Item Name="Testing" Type="Folder">
 			<Item Name="TestBeds" Type="Folder">
@@ -44,6 +44,7 @@ License: BSD</Property>
 				<Item Name="NI_WebServices.lvlib" Type="Library" URL="/&lt;vilib&gt;/wsapi/NI_WebServices.lvlib"/>
 				<Item Name="Path To Command Line String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/Path To Command Line String.vi"/>
 				<Item Name="PathToUNIXPathString.vi" Type="VI" URL="/&lt;vilib&gt;/Platform/CFURL.llb/PathToUNIXPathString.vi"/>
+				<Item Name="REST Client_JKI.lvclass" Type="LVClass" URL="/&lt;vilib&gt;/addons/_JKI.lib/REST Client/classes/REST Client_JKI/REST Client_JKI.lvclass"/>
 				<Item Name="Space Constant.vi" Type="VI" URL="/&lt;vilib&gt;/dlg_ctls.llb/Space Constant.vi"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
 				<Item Name="System Directory Type.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/sysdir.llb/System Directory Type.ctl"/>
