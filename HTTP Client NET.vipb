@@ -1,14 +1,14 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2021-04-13 16:27:12" Creator="Justin" Comments="" ID="261ccb8959fc5f31527a2d762f2553b0">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-02-01 19:55:06" Modified_Date="2025-02-21 17:23:44" Creator="Justin" Comments="" ID="3e35e46f77e3ff239f4a2c57b966f4cd">
   <Library_General_Settings>
     <Package_File_Name>Viviota_lib_HTTP_Client_NET</Package_File_Name>
-    <Library_Version>1.0.1.15</Library_Version>
+    <Library_Version>1.1.0.18</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
-    <Library_Output_Folder>..\builds\VIPM\LabVIEW_HTTP_REST_NET</Library_Output_Folder>
+    <Library_Output_Folder>..\..\..\..\Builds\VIPM\VIV_HTTP_REST_NET</Library_Output_Folder>
     <Company_Name>Viviota</Company_Name>
     <Library_Summary/>
     <Library_License>BSD</Library_License>
-    <Package_LabVIEW_Version>18.0</Package_LabVIEW_Version>
+    <Package_LabVIEW_Version>18.0 (64-bit)</Package_LabVIEW_Version>
     <Community_Edition>true</Community_Edition>
     <Package_Icon>00000CFC002900000012000000020000000D01000000000100000000000A000000080000000000240024002900000012000000020000000D00B2B2B900010000000000100000001000000002002300000000000000000023002900000012000000020000000D00FCFCFD00010000000000100000001000000002002200010001000100010022002900000012000000020000000D00B2B2B900010000000000100000001000000002000000240024002400240000002900000012000000020000000D0080808A00010000000000100000001000000002000100230023002300230001001D00000C1800000C00000200020022002200180000000000FFFFFF0000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000000000FFFFFF000000000000000000FFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000000000000000FFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFF000000FFFFFF000000FFFFFFFFFFFF000000000000FFFFFF000000FFFFFF000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000000000FFFFFFFFFFFF000000000000FFFFFF000000000000000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000FFFFFFFFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000000FFFFFF000000FFFFFF000000000000FFFFFFFFFFFF000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C00006C00006C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C00006C00006C0000CCCCFF6C0000CCCCFF6C00006C00006C0000CCCCFF6C0000CCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFFCCCCFFCCCCFF6C0000CCCCFFCCCCFF6C0000CCCCFF6C0000CCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFFCCCCFF</Package_Icon>
     <Product_Name>Viviota HTTP Client NET</Product_Name>
@@ -34,7 +34,7 @@ This has only been tested on Windows systems.  While .NET can be called through 
 
 This is currently written in LabVIEW 2018 for convenience, however it should be backwards compatible, and has been tested with both 32/64 bit versions of LabVIEW.
 
-The "REST Client_NET.lvlib" library contained in this class is designed to be a subclass for the JKI REST Client Library. Without that dependency, that particular library will be broken.
+This project has integrated a fork of the JKI HTTP Client, and frozen the source at v2.0.0 to provide a simplified interface that calls .NET http client under the hood, rather than native NI code.  There is in-progress work on this tool to make the two fully compatible, but this will work in the meantime.
 
 Additional documentation to follow.
 
@@ -44,7 +44,11 @@ https://github.com/Viviota/LabVIEW-HttpClient-NET
       <Copyright/>
       <Packager>Justin Young</Packager>
       <URL>https://github.com/Viviota/LabVIEW-HttpClient-NET</URL>
-      <Release_Notes>v1.0.1
+      <Release_Notes>v1.1.0
+  - Froze JKI REST Client dependency (https://github.com/vipm-io/http-rest-client) at v2.0.0 and pulled source directly into this toolkit and renamed the library to "REST Client_JKI.lvlib" to avoid conflicts.
+ - Minor fixes
+
+v1.0.1
   - Removed TLS 1.3 from the default allowed security protocols, since it's not generally available yet.
 
 Initial build</Release_Notes>
@@ -147,6 +151,9 @@ Initial build</Release_Notes>
       <Exclusions>
         <Path>Post-Uninstall Custom Action.vi</Path>
       </Exclusions>
+      <Exclusions>
+        <Path>REST Client_JKI.lvproj</Path>
+      </Exclusions>
       <Place_Folder_Contents>
         <Path/>
       </Place_Folder_Contents>
@@ -206,6 +213,7 @@ Initial build</Release_Notes>
       <close_labview_before_install>false</close_labview_before_install>
       <restart_labview_after_install>false</restart_labview_after_install>
       <skip_mass_compile_after_install>false</skip_mass_compile_after_install>
+      <install_into_global_environment>false</install_into_global_environment>
     </LabVIEW>
     <VI_Docs>
       <Edit_VI_Description>false</Edit_VI_Description>
@@ -218,7 +226,7 @@ Initial build</Release_Notes>
   <Library_Palette_Definition>
     <Functions_Palette_Data>
       <Parent_Palette_Index>-1</Parent_Palette_Index>
-      <Name>Viviota HTTP Client .NET</Name>
+      <Name>HTTP Client .NET</Name>
       <View_Format>Icons</View_Format>
       <Size>
         <Height_Row>3</Height_Row>
@@ -389,7 +397,7 @@ Initial build</Release_Notes>
         <Path>HTTP Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9E40F606CEEF3F2300649F6411E62981</GUID>
+      <GUID>588B6A39C323ED23A25148FF3429ECB1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -578,7 +586,7 @@ Initial build</Release_Notes>
         <Path>Content Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>25164E741963D70372354E993509ED0C</GUID>
+      <GUID>65279CEF8B340C9D8D4F07B615C59A44</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -641,7 +649,7 @@ Initial build</Release_Notes>
         <Path>HttpContent_ByteArray\Write NET_ByteArrayContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE83F20E338B58ECC0F6F0DF1A4FFD72</GUID>
+      <GUID>9A09BA10265A2CDD8BF2E8F191CAC9EC</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -718,7 +726,7 @@ Initial build</Release_Notes>
         <Path>HttpContent_Multipart\Write NET_MultipartContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>368D9A0F31DEFDDF4AAEE490F813C0F6</GUID>
+      <GUID>C95D55ADD390A042A96A2E640995899B</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -795,7 +803,7 @@ Initial build</Release_Notes>
         <Path>HttpContent_Stream\Write NET_StreamContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>04057F461973462A7BF6AB671C553AF1</GUID>
+      <GUID>018A8277FED80F3C53563B52B935E022</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -858,7 +866,7 @@ Initial build</Release_Notes>
         <Path>HttpContent_string\Write NET_StringContent.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DE4429AE14848A6087D8BF42F5A86E4D</GUID>
+      <GUID>C49EA52F2008CC2E7E281E0E470ECB32</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -963,7 +971,7 @@ Initial build</Release_Notes>
         <Path>HttpDownloadTask\Read Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DFF9E9120D9C91CD6E35BE77AC2DDF3E</GUID>
+      <GUID>5B487044C0DD327E0829FFFE92532E45</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1040,7 +1048,7 @@ Initial build</Release_Notes>
         <Path>HttpHeaders_content\Write NET_HttpContentHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D3A0C0B0B5E1B0E5271CD650F77DEC31</GUID>
+      <GUID>7AAF246B38C64BA0E80B09629BB15F46</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1187,7 +1195,7 @@ Initial build</Release_Notes>
         <Path>Headers Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5533C666B06A41DDAB580FB97DB2C055</GUID>
+      <GUID>C020A7D2DD5D027AC2DFF9E085E1A6B6</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1264,7 +1272,7 @@ Initial build</Release_Notes>
         <Path>HttpHeaders_Request\Write NET_HttpRequestHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8E64E4D74B94E382BCFC2E42B1013103</GUID>
+      <GUID>581321FCCCE5C2089405AAD771C3933C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -1313,7 +1321,7 @@ Initial build</Release_Notes>
         <Path>HttpHeaders_response\Write NET_HttpResponseHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>671F2B9179348B803DE15CADC2936090</GUID>
+      <GUID>0A8DF5445D81AD33DAAA9C794AF23F1C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1432,7 +1440,7 @@ Initial build</Release_Notes>
         <Path>Request Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B058F296F1E56C86B60CC9F6C734C312</GUID>
+      <GUID>5BAAD2029DC43964566CD62574B95431</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1593,7 +1601,7 @@ Initial build</Release_Notes>
         <Path>Response Adv</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E406581E50DE99DFCCABAE9EA23BC63D</GUID>
+      <GUID>5E544C7B2278A9B286F23734E7CE459D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>27</Parent_Palette_Index>
@@ -1670,7 +1678,7 @@ Initial build</Release_Notes>
         <Path>WebProxy_NET\Create WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F3F603ECA12E18230BF8D23EE76577AF</GUID>
+      <GUID>78FE388302112BB95CD328A674B19D0A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1859,7 +1867,7 @@ Initial build</Release_Notes>
         <Path>HttpContent\Accessors\Write timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DA22400DAC2F601EEB6E62D1D9BB31A4</GUID>
+      <GUID>17497D04295B2ADE8C052F01F1300C49</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1922,7 +1930,7 @@ Initial build</Release_Notes>
         <Path>HttpContent\Streams\Stream_Close.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F13C8AD94264C7D3996427343E34C738</GUID>
+      <GUID>8D136420304DCE11824B39AB54FBB18A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>33</Parent_Palette_Index>
@@ -1971,7 +1979,7 @@ Initial build</Release_Notes>
         <Path>HttpContent\SubVIs\Create Content.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A36B9AA9784AFAD8C75E35FA76A39CF1</GUID>
+      <GUID>846F3C8F2F942976A9D2AD989A157064</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>15</Parent_Palette_Index>
@@ -2076,7 +2084,7 @@ Initial build</Release_Notes>
         <Path>HttpContent\Streams\Async Streams\ReadAs Stream_Status.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6F55EB8AFBB2AE89C1CDC844D828E26B</GUID>
+      <GUID>CD6FD3A92D8055844D6C0EA9BA1D8A70</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2209,7 +2217,7 @@ Initial build</Release_Notes>
         <Path>HttpDownloadTask\Accessors\Write HttpResponseMessage.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5CE79EB02DE5CC01A5549A517E2CBC70</GUID>
+      <GUID>8EB515183EE428432917AFCA26107305</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>36</Parent_Palette_Index>
@@ -2244,7 +2252,7 @@ Initial build</Release_Notes>
         <Path>HttpDownloadTask\SubVIs\Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A805BF970CECC0A79592A10F3FBD452A</GUID>
+      <GUID>001F6A9555AA2F5F2A1A4FD1B942BF64</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2293,7 +2301,7 @@ Initial build</Release_Notes>
         <Path>HTTPHeaders_NET\Accessors\Write NET_HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>AED83B90E4C3AA79CE5F6C78A4E1280B</GUID>
+      <GUID>53F11E2F46E76C2BCF676CE4FE9AAA38</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>34</Parent_Palette_Index>
@@ -2342,7 +2350,7 @@ Initial build</Release_Notes>
         <Path>HTTPHeaders_NET\SubVIs\Merge Headers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8249EFFB2614F8C0510D0D8D42F63D69</GUID>
+      <GUID>D13EA4E144FD29B441098734D599BBBB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2405,7 +2413,7 @@ Initial build</Release_Notes>
         <Path>HttpRequestMessage\Write HttpHeaders.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A7DC07528BCEC04626438C294C5188BA</GUID>
+      <GUID>5A73A410891730EB6705A185E4838C49</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>37</Parent_Palette_Index>
@@ -2454,7 +2462,7 @@ Initial build</Release_Notes>
         <Path>HttpRequestMessage\SubVIs\Get HTTP Method.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4C7FAA79CBD2DB42E9B6B2106D1DDFFD</GUID>
+      <GUID>6786C67E8519D0D4B7EB7DF3BD6C963C</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2671,7 +2679,7 @@ Initial build</Release_Notes>
         <Path>HttpResponseMessage\Accessors\Write Timeout_ms.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>3115A91136867D21DB4F3061F1645AD8</GUID>
+      <GUID>68460119504F61D664B2512D55794B8A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>38</Parent_Palette_Index>
@@ -2734,7 +2742,7 @@ Initial build</Release_Notes>
         <Path>HttpResponseMessage\SubVIs\Wait For Task_core.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9CEB07550E46E5705E3173CF1E8ADD8D</GUID>
+      <GUID>54987B19D1B56DF996895A8CF3CA42AB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -2839,7 +2847,7 @@ Initial build</Release_Notes>
         <Path>LabVIEWHTTPClient_NET\Accessors\Write RequestHeaderContentFirst.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>69F723BB5CDDFDB03DC4F4339326BBDD</GUID>
+      <GUID>97244F425AF705E32E4BA85D22582F39</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -2944,7 +2952,7 @@ Initial build</Release_Notes>
         <Path>WebProxy_NET</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E0E91C3CCF666111576E868DC898E162</GUID>
+      <GUID>58D986DA58A5042CE5B09AED422E1DE7</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3063,7 +3071,7 @@ Initial build</Release_Notes>
         <Path>HttpDownloadTask</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>CA79E67BC88683785F6A84CD292D5BF7</GUID>
+      <GUID>D9ADC6336A8F86A19C7FDDD7417FB91E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>35</Parent_Palette_Index>
@@ -3140,7 +3148,7 @@ Initial build</Release_Notes>
         <Path>LabVIEWHTTPClient_NET\SubVIs\Set Allowed Security Protocol.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E37DE0F9934A8DB51C2AF83C9FB7940E</GUID>
+      <GUID>10682F22DFFC7B16B77D6BFAD1E492B4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>28</Parent_Palette_Index>
@@ -3217,7 +3225,7 @@ Initial build</Release_Notes>
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Queue_WaitForResponse.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7620348E9F95F506396CF36FC88E0645</GUID>
+      <GUID>BC3FA75CE349BCBD351F3803F0DABA93</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>30</Parent_Palette_Index>
@@ -3266,7 +3274,7 @@ Initial build</Release_Notes>
         <Path>LabVIEWHTTPClient_NET\HttpMethods\Queue Methods\Private\Queue_WaitForEnqueue.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>E7652560C5AD44F659E0E1141FC8DDBB</GUID>
+      <GUID>0974E91D227CE9BA15330C6A601415FB</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>13</Parent_Palette_Index>
@@ -3315,7 +3323,7 @@ Initial build</Release_Notes>
         <Path>WebProxy_NET\Accessors\Write NET_WebProxy.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>271AC8708AB71EFF199CD6D78CDD6B0D</GUID>
+      <GUID>CF5D86E12E3CCF0A2DFBA26E5BEF98C9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -3364,7 +3372,7 @@ Initial build</Release_Notes>
         <Path>HttpContent\Accessors</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>B2469BB7D54C6124F1630DD34040624C</GUID>
+      <GUID>6BD87C776ED0622EB37FFE4655FE484E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>8</Parent_Palette_Index>
@@ -3413,7 +3421,7 @@ Initial build</Release_Notes>
         <Path>HTTPHeaders_NET\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>8034CF65FE2DEB674254F0FB3AAD2C39</GUID>
+      <GUID>93B07C211AE215487ECAB64C929958E4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3518,7 +3526,7 @@ Initial build</Release_Notes>
         <Path>Utilities\Base64_Decode.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>FB223C446D9F487870811C13C3612B06</GUID>
+      <GUID>DEC25CE394DDFD59C94C8D0E560D6B2D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>6</Parent_Palette_Index>
@@ -3567,7 +3575,7 @@ Initial build</Release_Notes>
         <Path>HttpDownloadTask\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>016F363CC4257996777A658904D8DDBA</GUID>
+      <GUID>65E8A0AEE3220B612A471B9BED517BDF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>11</Parent_Palette_Index>
@@ -3616,7 +3624,7 @@ Initial build</Release_Notes>
         <Path>HttpRequestMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>5E6FE2B3E93C1D9CEE23E06E671433CE</GUID>
+      <GUID>2500235AD156D182E85A1F87E390BDB2</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>12</Parent_Palette_Index>
@@ -3665,7 +3673,7 @@ Initial build</Release_Notes>
         <Path>HttpResponseMessage\SubVIs</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>60852A324BD53F401837D346DB8A8058</GUID>
+      <GUID>3D0E6521686A98F21027A2D209AC8DE4</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3812,7 +3820,35 @@ Initial build</Release_Notes>
         <Path>REST Client_NET\Destroy REST Client.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>91C20115B8414F8E7B3BBB4AE94BB219</GUID>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Create JKI REST Client.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>3</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>classes\REST Client_JKI\Create JKI REST Client.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <Items_Data>
+        <Type>Item</Type>
+        <Sub_Palette_Index>-1</Sub_Palette_Index>
+        <NameSub_Menu_Name>Escape HTTP URL String.vi</NameSub_Menu_Name>
+        <Short_Name/>
+        <is_Merge_VI>false</is_Merge_VI>
+        <Position>
+          <Row>2</Row>
+          <Column>4</Column>
+        </Position>
+        <Icon>00000000</Icon>
+        <Path>classes\REST Client\Escape HTTP URL String.vi</Path>
+        <VI_Title/>
+      </Items_Data>
+      <GUID>6343A35E7F3F22615AF40D1473B7D51D</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -3917,7 +3953,7 @@ Initial build</Release_Notes>
         <Path>Examples\MethodTest.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BE1CD06081DBFD3BB35F463EF9A5B846</GUID>
+      <GUID>1B18CE37D1FD9D17C35F9C923AF25F03</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
